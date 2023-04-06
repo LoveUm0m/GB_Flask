@@ -1,4 +1,4 @@
-rom gb_web.app import app
+from gb_web.app import app
 
 
 if __name__ == "__main__":
